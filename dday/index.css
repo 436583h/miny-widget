@@ -16,10 +16,10 @@ body {
   font-size: 7vw;
 }
 .container .date {
-  font-size: 3vw;
+  font-size: 7vw;
 }
 .container > .counter {
-  font-size: 10vw;
+  font-size: 8vw;
   flex: 1;
   display: flex;
   justify-content: flex-end;
