@@ -20,7 +20,7 @@ body {
 }
 .container > .counter {
   font-size: 10vw;
-  width: 100%;              /* 가로 전체 너비를 차지하게 해서 다음 줄(하단)로 내림 */
+  flex: 1;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
