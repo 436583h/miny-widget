@@ -12,15 +12,8 @@ body {
   justify-content: center;
   box-sizing: border-box;
 }
-.container > div:first-child {
-  display: flex;            /* 감싸고 있는 div 내부를 가로 배치로 강제 변경 */
-  flex-direction: row;
-  align-items: baseline;    /* 컨텐츠와 날짜 글자의 아랫줄 높이를 맞춤 */
-  flex-wrap: wrap;
-}
 .container .content {
   font-size: 7vw;
-  margin-right: 2vw;        /* 컨텐츠와 날짜 사이의 가로 간격 */
 }
 .container .date {
   font-size: 10vw;
