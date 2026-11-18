@@ -1,11 +1,11 @@
 body {
   margin: 0;
   font-family: "Pretendard Variable", Pretendard, sans-serif;
-  font-weight: 500;
-  height: 90vh;
+  font-weight: 900;
+  height: 100vh;
 }
 .container {
-  height: 100%;
+  height: 80%;
   padding: 3% 5%;
   display: flex;
   flex-direction: column;
@@ -13,13 +13,13 @@ body {
   box-sizing: border-box;
 }
 .container .content {
-  font-size: 12vw;
-}
-.container .date {
   font-size: 9vw;
 }
+.container .date {
+  font-size: 7vw;
+}
 .container > .counter {
-  font-size: 23vw;
+  font-size: 18vw;
   flex: 1;
   display: flex;
   justify-content: flex-end;
