@@ -13,13 +13,13 @@ body {
   box-sizing: border-box;
 }
 .container .content {
-  font-size: 5vw;
+  font-size: 7vw;
 }
 .container .date {
   font-size: 3vw;
 }
 .container > .counter {
-  font-size: 13vw;
+  font-size: 10vw;
   flex: 1;
   display: flex;
   justify-content: flex-end;
