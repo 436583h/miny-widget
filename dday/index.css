@@ -16,8 +16,8 @@ body {
   font-size: 7vw;
 }
 .container .date {
-  font-size: 8vw;
-  margin-top: 3vw;
+  font-size: 10vw;
+  margin-top: 20px;
 }
 .container > .counter {
   font-size: 10vw;
